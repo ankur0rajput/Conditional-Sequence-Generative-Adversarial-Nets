@@ -1,1 +1,1 @@
-# Improving-Neural-Machine-Translation-with-Conditional-Sequence-Generative-Adversarial-Nets
+Conditional-Sequence-Generative-Adversarial-Nets
